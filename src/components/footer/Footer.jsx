@@ -11,10 +11,8 @@ const Footer = () => {
             {' '}
             <BsGithub />
           </a>
-
         </div>
       </div>
-
     </footer>
   )
 }
